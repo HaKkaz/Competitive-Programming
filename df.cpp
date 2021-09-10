@@ -12,6 +12,6 @@ using pii = pair<int, int>;
 
 int main(){
 	fast;
-    puts("ok"); 
+
 }
 
