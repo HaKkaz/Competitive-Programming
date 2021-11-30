@@ -12,6 +12,9 @@ using pii = pair<int, int>;
 
 int main(){
 	fast;
-	for(int i=0,x ; i<26 ; ++i) cin >> x , cout << char(x-1 + 'a');
+    int n ; cin >> n ; 
+    vector<int> v(n);
+    for(int i=0 ; i<n ; ++i) cin >> a[i];
+
 }
 

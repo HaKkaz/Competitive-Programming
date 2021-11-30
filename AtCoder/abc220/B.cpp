@@ -12,6 +12,14 @@ using pii = pair<int, int>;
 
 int main(){
 	fast;
-	for(int i=0,x ; i<26 ; ++i) cin >> x , cout << char(x-1 + 'a');
+    int k; cin >> k ;
+    string a,b;
+    cin >> a >> b;
+    ll A=0,B=0;
+    reverse(ALL(a));
+    reverse(ALL(b));
+    for(ll i=0,val=1 ; i<(int)a.size() ; val*=k,++i) A += (a[i]-'0') * (val);
+    for(ll i=0,val=1 ; i<(int)b.size() ; val*=k,++i) B += (b[i]-'0') * (val);
+    cout << A*B << '\n';
 }
 
