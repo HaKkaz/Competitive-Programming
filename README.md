@@ -1,4 +1,5 @@
 # Competitive Programming
+> 為競程刷題作紀念
 
 ## Zerojudge
 Zerojudge 資料夾內有一些 APCS 考古題範例程式碼，歡迎取用。
