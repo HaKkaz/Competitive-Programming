@@ -1,5 +1,4 @@
 # Competitive Programming
-> 為競程刷題作紀念
 > Online Judge IDs : luckyanthonyan, HaKkaz
 
 ## Zerojudge
