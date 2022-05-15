@@ -20,3 +20,4 @@ struct Sparse_Table
         return max(ST[k][l] , ST[k][r-(1<<k)+1]);
     }    
 };
+© 2022 GitHub, Inc.
