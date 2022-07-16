@@ -53,3 +53,4 @@ signed main(){
 
     ;
 }
+//https:\/\/medium.com\/codingbar\/apcs\%E8\%A7\%A3\%E9\%A1\%8C\%E7\%AD\%96\%E7\%95\%A5-\%E5\%AF\%A6\%E4\%BD\%9C\%E6\%BB\%BF\%E7\%B4\%9A\%E5\%88\%86\%E9\%AB\%98\%E6\%89\%8B\%E7\%B6\%93\%E9\%A9\%97\%E5\%88\%86\%E4\%BA\%AB-217c79c76acb
