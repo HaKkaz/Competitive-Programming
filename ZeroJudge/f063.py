@@ -1,0 +1,1 @@
+print(max([min(list(map(int,input().split()))[1:]) for _ in range(int(input()))]))

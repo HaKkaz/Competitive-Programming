@@ -1,0 +1,1 @@
+input(),print(sum(int(x) <= 10 for x in input().split()))
