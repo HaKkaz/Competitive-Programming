@@ -42,7 +42,7 @@ signed main(){
 					int xx = x + dx[d];
 					int yy = y + dy[d];
 					if (check(xx, yy) && mp[xx][yy] == 1) {
-						mp[xx][yy] = 2;
+						mp[xx][yy] = 2; // 改成2代表被偵測到
 					}
 				}
 			}
